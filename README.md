@@ -10,16 +10,6 @@
 
 </div>
 
-```ts
-const zoy = {
-  building:   "zuuzii.com",      // 🚀 我们的产品 / our product
-  homebase:   "zoytown.com",     // 🏡 我的个人站 / my personal site
-  stack:      ["TypeScript", "React", "Node", "Python"],
-  askMeAbout: ["indie hacking", "product design", "AI", "side projects"],
-  philosophy: "ship small, iterate fast, stay curious",
-};
-```
-
 <details>
 <summary><code>$ ./zoy --about</code> &nbsp;·&nbsp; 点开看看 / click me 👀</summary>
 
@@ -65,21 +55,82 @@ zoy@earth:~$ neofetch
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:6E40C9&height=2" width="100%" alt="─" />
 
+### ✨ 精选作品 / Featured Work
+
+<!-- 想换更干净的截图?把对应图片丢进 assets/ 同名覆盖即可(aihunter.png / agentstudio.png / mc-aiplayer.png) -->
+
+<!-- ───── 1 · AI Hunter(图左 / 文右)───── -->
+<table>
+<tr>
+<td width="58%">
+<a href="https://aihunter.zuuzii.com"><img src="assets/aihunter.png" width="100%" alt="AI Hunter — zuuzii AI 工具库" /></a>
+</td>
+<td width="42%" valign="top">
+<h3>🛰️ AI Hunter</h3>
+<p><b>在 AI 的浪潮里,替你筛出真正值得用的工具。</b><br/>
+一座持续更新的中文 AI 工具图谱:从图像、视频、写作到编程与企业级平台,<b>15+ 分类</b>、人工甄选 —— 把噪音挡在门外,只留下当下最值得上手的那一个。</p>
+<p><sub><i>Signal over noise — a curated, daily-updated atlas of the AI tools actually worth your time.</i></sub></p>
+<p>
+<img src="https://img.shields.io/badge/Web_App-58A6FF?style=flat-square&logoColor=white" alt="Web App" />
+<img src="https://img.shields.io/badge/15+_分类-6E40C9?style=flat-square" alt="15+ categories" />
+<img src="https://img.shields.io/badge/每日更新-FF5A5F?style=flat-square" alt="daily updated" />
+</p>
+<a href="https://aihunter.zuuzii.com"><img src="https://img.shields.io/badge/▸_Visit-aihunter.zuuzii.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit AI Hunter" /></a>
+</td>
+</tr>
+</table>
+
+<!-- ───── 2 · AgentStudio(图左 / 文右)───── -->
+<table>
+<tr>
+<td width="58%">
+<a href="https://zuuzii.com/productions/agentstudio/"><img src="assets/agentstudio.png" width="100%" alt="AgentStudio — 零代码 AI 工作台" /></a>
+</td>
+<td width="42%" valign="top">
+<h3>🎛️ AgentStudio</h3>
+<p><b>说一句话,两个 AI 替你把它做出来。</b><br/>
+macOS 上的零代码工作台:双 Agent 各司其职 —— 一个规划与审查,一个编码与执行,实时预览、报错自动回退自愈,直到交付一个真正跑得起来的成品。把「想法到产品」压缩进一次对话。</p>
+<p><sub><i>Describe it once. A planner and a builder orchestrate it into a working product — idea to shipped, in a single conversation.</i></sub></p>
+<p>
+<img src="https://img.shields.io/badge/macOS_14+-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+<img src="https://img.shields.io/badge/双_Agent_协作-6E40C9?style=flat-square" alt="dual agent" />
+<img src="https://img.shields.io/badge/Claude_+_Codex_+_DeepSeek-58A6FF?style=flat-square" alt="models" />
+</p>
+<a href="https://zuuzii.com/productions/agentstudio/"><img src="https://img.shields.io/badge/▸_Visit-AgentStudio-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Visit AgentStudio" /></a>
+</td>
+</tr>
+</table>
+
+<!-- ───── 3 · AIBot / MC AI Player(图左 / 文右)───── -->
+<table>
+<tr>
+<td width="58%">
+<a href="https://www.zoytown.com/items/mc_aiplayer"><img src="assets/mc-aiplayer.png" width="100%" alt="AIBot — Minecraft AI 玩家 Mod" /></a>
+</td>
+<td width="42%" valign="top">
+<h3>🎮 AIBot · MC AI Player</h3>
+<p><b>会思考、能生存的 Minecraft 自主智能体。</b><br/>
+一个服务端 Fabric Mod:大模型负责「想」(目标回溯式规划),确定性任务状态机负责「做」(挖矿、合成、战斗、生存)。感知 → 规划 → 执行 → 重试 —— 一个真正能在世界里自洽行动的 AI 玩家。</p>
+<p><sub><i>An autonomous agent that lives in Minecraft — LLM reasoning on top, deterministic task machines below. Perceive, plan, act, retry — all server-side.</i></sub></p>
+<p>
+<img src="https://img.shields.io/badge/Minecraft_1.21.3-62B47A?style=flat-square&logoColor=white" alt="Minecraft" />
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square&logoColor=black" alt="Fabric" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" alt="DeepSeek" />
+</p>
+<a href="https://www.zoytown.com/items/mc_aiplayer"><img src="https://img.shields.io/badge/▸_Visit-MC_AI_Player-62B47A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit MC AI Player" /></a>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:6E40C9&height=2" width="100%" alt="─" />
+
 ### 🛠️ 技术栈 / Tech Stack
 
-<!-- 编辑提示:增删徽章即可,更多 logo 见 https://simpleicons.org -->
+<!-- 编辑提示:增删图标只需改 URL 里 i= 后的代号,全部代号见 https://skillicons.dev -->
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,tailwind,postgres,docker,vercel,git&perline=12" alt="tech stack" />
 
 </div>
 
@@ -109,9 +160,11 @@ zoy@earth:~$ neofetch
 
 <br/>
 
-<!-- 随机程序员名言,每次刷新都不同 / random dev quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
-
-<sub><i>Stay hungry, stay foolish. — 用代码,把每个「要是有就好了」做出来。</i></sub>
+<!-- 固定引言 / fixed quote -->
+<em>&ldquo;All the moments will be lost in time, like tears in rain.&rdquo;</em>
+<br/>
+<sub>— Roy Batty · <i>Blade Runner</i> (1982)</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6E40C9&height=120&section=footer" width="100%" alt="" />
