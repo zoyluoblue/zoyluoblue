@@ -31,7 +31,7 @@ zoy@earth:~$ neofetch
 
 ### 🚀 zuuzii.com — 我们的产品 / Our Product
 
-<a href="https://zuuzii.com">
+<a href="https://zuuzii.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/▸_Visit-zuuzii.com-FF5A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit zuuzii.com" />
 </a>
 
@@ -44,7 +44,7 @@ zoy@earth:~$ neofetch
 
 ### 🏡 zoytown.com — 我的个人站 / Personal Space
 
-<a href="https://zoytown.com">
+<a href="https://zoytown.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/▸_Visit-zoytown.com-6E40C9?style=for-the-badge&logo=ghost&logoColor=white" alt="Visit zoytown.com" />
 </a>
 
@@ -63,7 +63,7 @@ zoy@earth:~$ neofetch
 <table>
 <tr>
 <td width="58%">
-<a href="https://aihunter.zuuzii.com"><img src="assets/aihunter.png" width="100%" alt="AI Hunter — zuuzii AI 工具库" /></a>
+<a href="https://aihunter.zuuzii.com" target="_blank" rel="noopener noreferrer"><img src="assets/aihunter.png" width="100%" alt="AI Hunter — zuuzii AI 工具库" /></a>
 </td>
 <td width="42%" valign="top">
 <h3>🛰️ AI Hunter</h3>
@@ -75,7 +75,7 @@ zoy@earth:~$ neofetch
 <img src="https://img.shields.io/badge/15+_分类-6E40C9?style=flat-square" alt="15+ categories" />
 <img src="https://img.shields.io/badge/每日更新-FF5A5F?style=flat-square" alt="daily updated" />
 </p>
-<a href="https://aihunter.zuuzii.com"><img src="https://img.shields.io/badge/▸_Visit-aihunter.zuuzii.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit AI Hunter" /></a>
+<a href="https://aihunter.zuuzii.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▸_Visit-aihunter.zuuzii.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit AI Hunter" /></a>
 </td>
 </tr>
 </table>
@@ -84,7 +84,7 @@ zoy@earth:~$ neofetch
 <table>
 <tr>
 <td width="58%">
-<a href="https://zuuzii.com/productions/agentstudio/"><img src="assets/agentstudio.png" width="100%" alt="AgentStudio — 零代码 AI 工作台" /></a>
+<a href="https://zuuzii.com/productions/agentstudio/" target="_blank" rel="noopener noreferrer"><img src="assets/agentstudio.png" width="100%" alt="AgentStudio — 零代码 AI 工作台" /></a>
 </td>
 <td width="42%" valign="top">
 <h3>🎛️ AgentStudio</h3>
@@ -96,7 +96,7 @@ macOS 上的零代码工作台:双 Agent 各司其职 —— 一个规划与审�
 <img src="https://img.shields.io/badge/双_Agent_协作-6E40C9?style=flat-square" alt="dual agent" />
 <img src="https://img.shields.io/badge/Claude_+_Codex_+_DeepSeek-58A6FF?style=flat-square" alt="models" />
 </p>
-<a href="https://zuuzii.com/productions/agentstudio/"><img src="https://img.shields.io/badge/▸_Visit-AgentStudio-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Visit AgentStudio" /></a>
+<a href="https://zuuzii.com/productions/agentstudio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▸_Visit-AgentStudio-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Visit AgentStudio" /></a>
 </td>
 </tr>
 </table>
@@ -105,7 +105,7 @@ macOS 上的零代码工作台:双 Agent 各司其职 —— 一个规划与审�
 <table>
 <tr>
 <td width="58%">
-<a href="https://www.zoytown.com/items/mc_aiplayer"><img src="assets/mc-aiplayer.png" width="100%" alt="AIBot — Minecraft AI 玩家 Mod" /></a>
+<a href="https://www.zoytown.com/items/mc_aiplayer" target="_blank" rel="noopener noreferrer"><img src="assets/mc-aiplayer.png" width="100%" alt="AIBot — Minecraft AI 玩家 Mod" /></a>
 </td>
 <td width="42%" valign="top">
 <h3>🎮 AIBot · MC AI Player</h3>
@@ -118,7 +118,7 @@ macOS 上的零代码工作台:双 Agent 各司其职 —— 一个规划与审�
 <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square&logoColor=black" alt="Fabric" />
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" alt="DeepSeek" />
 </p>
-<a href="https://www.zoytown.com/items/mc_aiplayer"><img src="https://img.shields.io/badge/▸_Visit-MC_AI_Player-62B47A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit MC AI Player" /></a>
+<a href="https://www.zoytown.com/items/mc_aiplayer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▸_Visit-MC_AI_Player-62B47A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit MC AI Player" /></a>
 </td>
 </tr>
 </table>
@@ -140,9 +140,9 @@ macOS 上的零代码工作台:双 Agent 各司其职 —— 一个规划与审�
 
 <div align="center">
 
-<a href="https://zuuzii.com"><img src="https://img.shields.io/badge/Product-zuuzii.com-FF5A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="zuuzii" /></a>
-<a href="https://zoytown.com"><img src="https://img.shields.io/badge/Site-zoytown.com-6E40C9?style=flat-square&logo=ghost&logoColor=white" alt="zoytown" /></a>
-<a href="https://github.com/zoyluoblue"><img src="https://img.shields.io/badge/GitHub-@zoyluoblue-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://zuuzii.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Product-zuuzii.com-FF5A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="zuuzii" /></a>
+<a href="https://zoytown.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Site-zoytown.com-6E40C9?style=flat-square&logo=ghost&logoColor=white" alt="zoytown" /></a>
+<a href="https://github.com/zoyluoblue" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-@zoyluoblue-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
