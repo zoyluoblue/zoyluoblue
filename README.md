@@ -57,7 +57,29 @@ zoy@earth:~$ neofetch
 
 ### ✨ 精选作品 / Featured Work
 
-<!-- 想换更干净的截图?把对应图片丢进 assets/ 同名覆盖即可(aihunter.png / agentstudio.png / mc-aiplayer.png) -->
+<!-- 想换更干净的截图?把对应图片丢进 assets/ 同名覆盖即可(wonderink.png / aihunter.png / agentstudio.png / mc-aiplayer.png) -->
+
+<!-- ───── ★ WonderInk(新上线 · App Store · 图左 / 文右)───── -->
+<table>
+<tr>
+<td width="58%">
+<a href="https://apps.apple.com/app/id6779648706" target="_blank" rel="noopener noreferrer"><img src="assets/wonderink.png" width="100%" alt="WonderInk — AI Photo & Art" /></a>
+</td>
+<td width="42%" valign="top">
+<h3>🎨 WonderInk</h3>
+<p><b>四种 AI 创作工具,装进你的口袋。</b><br/>
+一站式 AI 创作工坊:人像重绘(12 种画风)、一句话智能修图(上色 / 扩图 / 超分 / 去水印)、涂鸦秒变作品、照片一键动成 5 秒短片。作品全部留在本机,上传仅用于生成、绝不留存。</p>
+<p><sub><i>Four AI creation tools in your pocket — restyle portraits, edit by instruction, turn doodles into art, and bring photos to life. Everything stays on your device.</i></sub></p>
+<p>
+<img src="https://img.shields.io/badge/NEW-刚上线-FF5A5F?style=flat-square" alt="new" />
+<img src="https://img.shields.io/badge/iOS_17+-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS 17+" />
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/阿里云百炼_DashScope-FF6A00?style=flat-square" alt="DashScope" />
+</p>
+<a href="https://apps.apple.com/app/id6779648706" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▸_Download-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download WonderInk on the App Store" /></a>
+</td>
+</tr>
+</table>
 
 <!-- ───── 1 · AI Hunter(图左 / 文右)───── -->
 <table>
