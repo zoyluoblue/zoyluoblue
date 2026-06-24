@@ -71,10 +71,9 @@ zoy@earth:~$ neofetch
 一站式 AI 创作工坊:人像重绘(12 种画风)、一句话智能修图(上色 / 扩图 / 超分 / 去水印)、涂鸦秒变作品、照片一键动成 5 秒短片。作品全部留在本机,上传仅用于生成、绝不留存。</p>
 <p><sub><i>Four AI creation tools in your pocket — restyle portraits, edit by instruction, turn doodles into art, and bring photos to life. Everything stays on your device.</i></sub></p>
 <p>
-<img src="https://img.shields.io/badge/NEW-刚上线-FF5A5F?style=flat-square" alt="new" />
 <img src="https://img.shields.io/badge/iOS_17+-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS 17+" />
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/阿里云百炼_DashScope-FF6A00?style=flat-square" alt="DashScope" />
+<img src="https://img.shields.io/badge/12_画风-6E40C9?style=flat-square" alt="12 art styles" />
 </p>
 <a href="https://apps.apple.com/app/id6779648706" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▸_Download-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download WonderInk on the App Store" /></a>
 </td>
