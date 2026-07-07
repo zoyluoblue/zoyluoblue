@@ -57,7 +57,7 @@ zoy@earth:~$ neofetch
 
 ### ✨ 精选作品 / Featured Work
 
-<!-- 想换更干净的截图?把对应图片丢进 assets/ 同名覆盖即可(chatbot.png / aihunter.png / wonderink.png / agentstudio.png / mc-aiplayer.png / zprism.png / sigilo.png) -->
+<!-- 想换更干净的截图?把对应图片丢进 assets/ 同名覆盖即可(chatbot.png / cronova.png / aihunter.png / wonderink.png / agentstudio.png / mc-aiplayer.png / zprism.png / sigilo.png) -->
 
 <!-- ───── 1 · AI 好友 / AI Friends(图左 / 文右)───── -->
 <table>
@@ -81,7 +81,31 @@ zoy@earth:~$ neofetch
 </tr>
 </table>
 
-<!-- ───── 2 · AI Hunter(图左 / 文右)───── -->
+<!-- ───── 2 · Cronova(工作流调度器 · 竖版海报图左 / 文右)───── -->
+<table>
+<tr>
+<td width="34%" align="center" valign="top">
+<a href="https://www.zoytown.com/items/cronova" target="_blank" rel="noopener noreferrer"><img src="assets/cronova.png" width="260" alt="Cronova — 单文件工作流调度器" /></a>
+</td>
+<td width="66%" valign="top">
+<h3>⏱️ Cronova</h3>
+<p><b>把工作流调度,收进一个 Go 二进制。</b><br/>
+面向开发者与运维的轻量工作流调度器(神似 Airflow / Azkaban):用 YAML 定义 DAG,单文件运行,内置 SQLite、Web 控制台、REST API 与实时日志。cron 调度、跨任务依赖、失败重试、超时、资源池、崩溃恢复一应俱全 —— 任务可用任意语言编写,还能让 AI 通过 MCP 直接驱动。</p>
+<p><sub><i>A single-binary workflow scheduler in the spirit of Airflow / Azkaban — DAGs as YAML, embedded SQLite, a live web console, crash-recoverable, polyglot tasks, MCP-ready.</i></sub></p>
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/DAG_as_YAML-6E40C9?style=flat-square" alt="DAG as YAML" />
+<img src="https://img.shields.io/badge/单文件二进制-58A6FF?style=flat-square" alt="single binary" />
+<img src="https://img.shields.io/badge/MCP_就绪-FF5A5F?style=flat-square" alt="MCP ready" />
+<a href="https://github.com/zoyluoblue/cronova" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Open Source on GitHub" /></a>
+</p>
+<a href="https://www.zoytown.com/items/cronova" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▸_Visit-Cronova-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Cronova" /></a>
+</td>
+</tr>
+</table>
+
+<!-- ───── 3 · AI Hunter(图左 / 文右)───── -->
 <table>
 <tr>
 <td width="58%">
@@ -102,7 +126,7 @@ zoy@earth:~$ neofetch
 </tr>
 </table>
 
-<!-- ───── 3 · WonderInk(App Store · 图左 / 文右)───── -->
+<!-- ───── 4 · WonderInk(App Store · 图左 / 文右)───── -->
 <table>
 <tr>
 <td width="58%">
@@ -123,7 +147,7 @@ zoy@earth:~$ neofetch
 </tr>
 </table>
 
-<!-- ───── 4 · AgentStudio(图左 / 文右)───── -->
+<!-- ───── 5 · AgentStudio(图左 / 文右)───── -->
 <table>
 <tr>
 <td width="58%">
@@ -144,7 +168,7 @@ macOS 上的零代码工作台:双 Agent 各司其职 —— 一个规划与审�
 </tr>
 </table>
 
-<!-- ───── 5 · AIBot / MC AI Player(图左 / 文右)───── -->
+<!-- ───── 6 · AIBot / MC AI Player(图左 / 文右)───── -->
 <table>
 <tr>
 <td width="58%">
@@ -166,7 +190,7 @@ macOS 上的零代码工作台:双 Agent 各司其职 —— 一个规划与审�
 </tr>
 </table>
 
-<!-- ───── 6 · Zprism(macOS · 图左 / 文右)───── -->
+<!-- ───── 7 · Zprism(macOS · 图左 / 文右)───── -->
 <table>
 <tr>
 <td width="58%">
@@ -188,7 +212,7 @@ macOS 上的零代码工作台:双 Agent 各司其职 —— 一个规划与审�
 </tr>
 </table>
 
-<!-- ───── 7 · Sigilo(App Store · 图左 / 文右)───── -->
+<!-- ───── 8 · Sigilo(App Store · 图左 / 文右)───── -->
 <table>
 <tr>
 <td width="58%">
