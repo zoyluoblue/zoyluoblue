@@ -81,13 +81,13 @@ zoy@earth:~$ neofetch
 </tr>
 </table>
 
-<!-- ───── 2 · Cronova(工作流调度器 · 竖版海报图左 / 文右)───── -->
+<!-- ───── 2 · Cronova(工作流调度器 · 图左 / 文右)───── -->
 <table>
 <tr>
-<td width="34%" align="center" valign="top">
-<a href="https://www.zoytown.com/items/cronova" target="_blank" rel="noopener noreferrer"><img src="assets/cronova.png" width="260" alt="Cronova — 单文件工作流调度器" /></a>
+<td width="58%">
+<a href="https://www.zoytown.com/items/cronova" target="_blank" rel="noopener noreferrer"><img src="assets/cronova.png" width="100%" alt="Cronova — 工作流调度器 Web 控制台" /></a>
 </td>
-<td width="66%" valign="top">
+<td width="42%" valign="top">
 <h3>⏱️ Cronova</h3>
 <p><b>把工作流调度,收进一个 Go 二进制。</b><br/>
 面向开发者与运维的轻量工作流调度器(神似 Airflow / Azkaban):用 YAML 定义 DAG,单文件运行,内置 SQLite、Web 控制台、REST API 与实时日志。cron 调度、跨任务依赖、失败重试、超时、资源池、崩溃恢复一应俱全 —— 任务可用任意语言编写,还能让 AI 通过 MCP 直接驱动。</p>
